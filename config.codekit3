@@ -49,6 +49,17 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/deploy/img/section-1/Cartera pp.png": {
+		"ft": 32768,
+		"iS": 196511,
+		"oA": 0,
+		"oAP": "/deploy/img/section-1/Cartera pp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
 		"iS": 337746,
@@ -58,6 +69,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-2/Camisa y pantalón.png": {
+		"ft": 32768,
+		"iS": 352178,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/Camisa y pantalón.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-2/hero.png": {
@@ -82,6 +104,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/deploy/img/section-3/Recreo.png": {
+		"ft": 32768,
+		"iS": 378698,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/Recreo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/deploy/img/section-4/hero.jpg": {
 		"ft": 16384,
 		"iS": 189024,
@@ -91,6 +124,50 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-4/IMG_1547.png": {
+		"ft": 32768,
+		"iS": 235010,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/IMG_1547.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-4/IMG_5497.png": {
+		"ft": 32768,
+		"iS": 212967,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/IMG_5497.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-4/Mask.png": {
+		"ft": 32768,
+		"iS": 1721,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/Mask.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/camisa en circulo.png": {
+		"ft": 32768,
+		"iS": 169560,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/camisa en circulo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-1.jpg": {
