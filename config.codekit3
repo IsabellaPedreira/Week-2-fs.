@@ -351,14 +351,6 @@
 		"oAP": "/dev/section-5.html",
 		"oF": 0
 		},
-	"/dev/section1": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/dev/section1",
-		"oF": 0
-		},
 	"/README.md": {
 		"cB": 0,
 		"cS": 0,
