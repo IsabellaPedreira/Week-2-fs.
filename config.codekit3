@@ -60,17 +60,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-1/hero.jpg": {
-		"ft": 16384,
-		"iS": 337746,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/deploy/img/section-1/hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/deploy/img/section-2/Camisa y pantalón.png": {
 		"ft": 32768,
 		"iS": 352178,
@@ -82,28 +71,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/section-2/hero.png": {
-		"ft": 32768,
-		"iS": 21385,
-		"oA": 0,
-		"oAP": "/deploy/img/section-2/hero.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/deploy/img/section-3/grid-bot.jpg": {
-		"ft": 16384,
-		"iS": 185897,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/deploy/img/section-3/grid-bot.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/deploy/img/section-3/Recreo.png": {
 		"ft": 32768,
 		"iS": 378698,
@@ -113,17 +80,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"/deploy/img/section-4/hero.jpg": {
-		"ft": 16384,
-		"iS": 189024,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/deploy/img/section-4/hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-4/IMG_1547.png": {
