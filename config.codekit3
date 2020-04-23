@@ -141,14 +141,6 @@
 		"oAP": "/dev/footer.html",
 		"oF": 0
 		},
-	"/dev/index-Hello test.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/Users/walterpedreira/Documents/Web.2!/Week2/in-class-PM-master 2/deploy/index-Hello test.html",
-		"oF": 7
-		},
 	"/dev/index.kit": {
 		"cB": 0,
 		"ft": 2048,
