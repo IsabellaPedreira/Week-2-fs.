@@ -29,11 +29,11 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/deploy/img/section-1/Cartera pp.png": {
+	"/deploy/img/section-1/Cartera-pp.png": {
 		"ft": 32768,
 		"iS": 196511,
 		"oA": 0,
-		"oAP": "/deploy/img/section-1/Cartera pp.png",
+		"oAP": "/deploy/img/section-1/Cartera-pp.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -378,7 +378,7 @@
 "projectAttributes": {
 	"creationDate": 609128916.18126905,
 	"displayValue": "Week-2-fs.",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-silver",
 	"iconImageWasSetByUser": 0
 	},
