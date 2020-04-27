@@ -125,6 +125,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/deploy/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/deploy/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/design/structure-tags.sketch": {
 		"cB": 0,
 		"ft": 8192,
@@ -342,6 +352,19 @@
 		"oA": 1,
 		"oAP": "/dev/section-5.html",
 		"oF": 0
+		},
+	"/dev/sections/_section-1.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/sections/_section-1.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/README.md": {
 		"cB": 0,
