@@ -317,6 +317,11 @@ template {
 /* =============
     Base
 ============= */
+ul {
+  padding: 0; }
+  ul li {
+    list-style: none; }
+
 /* =============
     Typography
 ============= */
@@ -346,4 +351,40 @@ textarea {
 ============= */
 /* =============
     Footer
+============= */
+/* =============
+    Section 1
+============= */
+#section-1 {
+  display: grid;
+  grid-template-columns: 15px auto 15px;
+  grid-template-areas: ". section-1 ."; }
+  #section-1 #section-1-content {
+    grid-area: section-1; }
+    #section-1 #section-1-content img {
+      width: 100%; }
+
+/* =============
+    Section 2
+============= */
+#section-2 {
+  display: grid;
+  grid-template-columns: 15px auto 15px;
+  grid-template-areas: ". section-2 ."; }
+  @media (min-width: 1200px) {
+    #section-2 {
+      grid-template-columns: auto 800px; } }
+  #section-2 #section-2-content {
+    grid-area: section-2; }
+    #section-2 #section-2-content aside img {
+      width: 100%; }
+
+/* =============
+    Section 3
+============= */
+/* =============
+    Section 4
+============= */
+/* =============
+    Section 5
 ============= */
