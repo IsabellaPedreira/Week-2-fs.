@@ -1,3 +1,13 @@
 /* =============
     Section 4
 ============= */
+
+#section-5{
+    display: grid;
+    grid-template-columns: 15px auto 15px;
+    grid grid-template-areas: ". section-4 .";
+
+    article{
+        grid-area: section-4;
+    }
+}
