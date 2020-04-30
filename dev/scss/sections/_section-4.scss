@@ -3,23 +3,6 @@
 ============= */
 
 #section-4{
-    // display: grid;
-    // grid-template-columns: 15px auto 15px;
-    // grid grid-template-areas: ". section-4 .";
-
-    // article{
-    //     grid-area: section-4;
-    //     display: grid;
-    //     gap: 20px;
-    // }
-    //      article{
-    //          img{
-    //              width: 100%;
-    //          }
-    //      }
-    //     }
-}
-#section-4{
     display: grid;
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-4 ." ;
@@ -29,7 +12,9 @@
     }
 
     #section-4-content{
-        grid-area: section-3;
+        grid-area: section-4;
+        display: grid;
+        gap: 20px;
 
         aside{
             img{
