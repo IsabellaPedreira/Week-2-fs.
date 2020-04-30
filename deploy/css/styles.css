@@ -422,7 +422,7 @@ textarea {
     #section-5 {
       grid-template-columns: auto 800px; } }
   #section-5 #section-5-content {
-    grid-area: section-4;
+    grid-area: section-5;
     display: grid;
     gap: 20px; }
     #section-5 #section-5-content aside img {
