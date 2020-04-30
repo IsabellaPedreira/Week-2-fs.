@@ -397,6 +397,18 @@ textarea {
 /* =============
     Section 4
 ============= */
+#section-4 {
+  display: grid;
+  grid-template-columns: 15px auto 15px;
+  grid-template-areas: ". section-4 ."; }
+  @media (min-width: 1200px) {
+    #section-4 {
+      grid-template-columns: auto 800px; } }
+  #section-4 #section-4-content {
+    grid-area: section-3; }
+    #section-4 #section-4-content aside img {
+      width: 100%; }
+
 /* =============
     Section 5
 ============= */
