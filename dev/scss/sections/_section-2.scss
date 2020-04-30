@@ -13,6 +13,9 @@
 
     #section-2-content{
         grid-area: section-2;
+        display: grid;
+        gap: 20px;
+
 
         aside{
             img{
