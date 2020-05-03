@@ -21,6 +21,10 @@
             grid-template-columns: 100px auto 100px;
             grid-template-areas: ". section-2-text .";
 
+            #section-2-text-content{
+                grid-area: section-2-text;
+            }
+
         }
     
     }
