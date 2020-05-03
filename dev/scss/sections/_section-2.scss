@@ -19,6 +19,7 @@
         #section-2-text{
             display: grid;
             grid-template-columns: 100px auto 100px;
+            grid-template-areas: ". section-2-text .";
 
         }
     
