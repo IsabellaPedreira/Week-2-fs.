@@ -26,10 +26,27 @@
         "g1"
         "g2 g3"
 
-        aside{
+        }
+        li{
             img{
                 width: 100%;
             }
         }
+
+        #g1{
+            @include md{
+                grid-area: g1;
+            }
+        }
     }
+
+    #g2{
+        @include md{
+            grid-area: g2;
+        }
+
+        #g3{
+            @include md{
+                grid-area: g3;
+            }
 }
