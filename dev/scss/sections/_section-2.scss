@@ -18,7 +18,7 @@
 
         #section-2-text{
             display: grid;
-            grid-template-columns: 100px auto 100px;
+            grid-template-columns: 15% auto 15%;
             grid-template-areas: ". section-2-text .";
 
             #section-2-text-content{
@@ -26,14 +26,15 @@
             }
 
         }
-    
-    }
 
-    }
-        aside{
+        #section-2-image{
+            display: grid;
+            grid-template-columns: 100px auto 100px;
+            grid-template-areas:". section-2-image .";
+            aside
             img{
                 width: 100%;
             }
         }
+    
     }
-}
