@@ -16,6 +16,12 @@
         display: grid;
         gap: 20px;
 
+        @include md{
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: 50% 50%;
+            grid-template-columns: 50% auto;
+        }
+
         aside{
             img{
                 width: 100%;
