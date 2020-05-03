@@ -7,20 +7,24 @@
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-2 ." ;
 
-    @include xl{
-        grid-template-columns: auto 800px;
+    // @include xl{
+    //     grid-template-columns: auto 800px;
     }
 
     #section-2-content{
         grid-area: section-2;
         display: grid;
         gap: 20px;
+
+        #section-2-text{
+            display: grid;
+            grid-template-columns: 100px auto 100px;
+
+        }
     
     }
 
     }
-
-
         aside{
             img{
                 width: 100%;
