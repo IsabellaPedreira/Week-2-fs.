@@ -7,8 +7,17 @@
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-2 ." ;
 
-    @include xl{
-        grid-template-columns: auto 800px auto;
+    // @include xl{
+    //     grid-template-columns: auto 800px auto;
+    
+    @include lg{
+        display: grid;
+        grid-template-columns: 40% auto ;
+    }
+
+
+
+
     }
 
     #section-2-content{
