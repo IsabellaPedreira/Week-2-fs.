@@ -11,6 +11,10 @@
     //     grid-template-columns: auto 800px auto;
 
     #section-2{
+        display: grid;
+        grid-template-columns: auto 1200px auto;
+        grid-template-areas:". section-2-content .";
+        }
 
         #section-2-content{
 
