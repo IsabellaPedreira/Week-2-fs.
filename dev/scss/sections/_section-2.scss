@@ -22,6 +22,10 @@
                 display: grid;
                 grid-template-columns: 40% auto ;
             }
+
+            @include xl{
+                grid-template-areas: section-2-content;
+            }
         
         
         
